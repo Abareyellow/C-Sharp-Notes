@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C-Sharp-Notes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc7b0a1b04c477f2da1cfd655b4dcf3f6513b673")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7c9455c044ed220ccbde08639ebc0b781bb3655")]
 [assembly: System.Reflection.AssemblyProductAttribute("C-Sharp-Notes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C-Sharp-Notes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
