@@ -61,10 +61,29 @@ public class HelloWorld
     }
 
     public void deleteBook() {
+        Console.WriteLine("Enter Book Title You Want to Delete: ")
+        string book = Console.ReadLine();
 
+        if (book1.ToLower() == book.ToLower) {
+            book1 = "";
+        } else if (book2.ToLower() == book.ToLower) {
+            book2 = "";
+        } else if (book3.ToLower() == book.ToLower) {
+            book3 = "";
+        } else if (book4.ToLower() == book.ToLower) {
+            book4 = "";
+        } else if (book5.ToLower() == book.ToLower) {
+            book5 = "";
+        } else {
+            Console.WriteLine("Book was not found!!");
+        }
     }
 
     public void displayBooks() {
-
+        Console.WriteLine(book1);
+        Console.WriteLine(book2);
+        Console.WriteLine(book3);
+        Console.WriteLine(book4);
+        Console.WriteLine(book5);
     }
 }
